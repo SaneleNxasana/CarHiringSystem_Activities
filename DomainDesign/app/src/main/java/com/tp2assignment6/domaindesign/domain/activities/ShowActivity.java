@@ -17,7 +17,7 @@ public class ShowActivity extends AppCompatActivity {
     TextView txtViewLN;
     TextView txtViewEM;
 
-    private Button sbmtButton;
+    Button sbmtButton;
 
     public ShowActivity() {    }
 
